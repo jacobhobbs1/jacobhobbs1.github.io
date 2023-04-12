@@ -7,7 +7,7 @@ title: "Jake Hobbs"
 <br>
 [About Me](./about)
 <br>
-[Publications](./Publications)
+[News](./news)
 
 I am a first year PhD student within Open Lab looking into the role that augmented reality can play in medical surgery. I will be integrating augmented reality with existing technologies and techniques to aid surgeons with the procedures they undertake. I’m looking forward to seeing where I can take my PhD and what I can learn along the way.
 
