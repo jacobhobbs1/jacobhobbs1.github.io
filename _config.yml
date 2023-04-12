@@ -1,5 +1,5 @@
 title: Jake Hobbs
-logo: /assets/img/ProfilePicture.jpg
+logo: "./assets/img/ProfilePicture.png"
 email: j.hobbs11@ncl.ac.uk
 blank_title: true
 favicon: true
