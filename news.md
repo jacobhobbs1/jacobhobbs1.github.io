@@ -4,6 +4,12 @@ title: News
 ---
 
 [Home](./)
+<br>
+[About Me](./about)
+<br>
+[Publications](./publications)
+<br>
+[CV](./cv)
 
 ## News
 
