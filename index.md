@@ -16,7 +16,7 @@ I am a first year PhD student within Open Lab looking into the role that augment
 
 I completed my bachelors here at Newcastle University focussing my final dissertation on the development process of digital twins, during which I built a digital twin of an F1Tenth car as a case study. I thoroughly enjoyed this experience and learnt a lot about the potential that digital twins have in modern systems.
 
-When I’m not studying I spend an inordinate amount of time riding my bike through the North Pennines, and as president of the university Cycling Club I look forward to showing new students the routes I have come to love. This being part of the reason I wanted to stay in Newcastle after my undergraduate degree. I also enjoy cooking and experimenting with any new flavour combinations I can find
+When I am not studying I spend an inordinate amount of time riding my bike through the North Pennines, and as president of the university Cycling Club I look forward to showing new students the routes I have come to love. This being part of the reason I wanted to stay in Newcastle after my undergraduate degree. I also enjoy cooking and experimenting with any new flavour combinations I can find
 
 ---
 
