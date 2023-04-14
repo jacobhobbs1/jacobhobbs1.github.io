@@ -10,7 +10,10 @@ Brief xyz
 ---
 
 ## News
-[12/04/2023 - The beginning](https://jacobhobbs1.substack.com)
+
+> 12/04/2023: [The beginning](https://jacobhobbs1.substack.com)
+>
+> 28/03/2023: **Conception X** bootcamp at the Bishopsgate Institute in London [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7051867676494696448/) & [Substack](https://jacobhobbs1.substack.com)
 
 ---
 
@@ -18,7 +21,7 @@ Brief xyz
 
 Nowt yet like
 
-[Complete Publications](./publications)
+[See All Publications](./publications)
 
 ---
 
