@@ -33,9 +33,9 @@
         <header>
           {% if site.logo %}
             {% if site.cdn.jsdelivr.enabled %}
-              <img class="img-circle" src="{{ assets_base_url }}{{ site.logo }}" alt="Logo">
+              <img class="img-circle" src="./assets/img/logo.jpg" alt="Logo">
             {% else %}
-              <img class="img-circle" src="{{ site.logo | relative_url }}" alt="Logo">
+              <img class="img-circle" src="./assets/img/logo.jpg" alt="Logo">
             {% endif %}
           {% endif %}
 
