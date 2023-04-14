@@ -33,9 +33,9 @@
         <header>
           {% if site.logo %}
             {% if site.cdn.jsdelivr.enabled %}
-              <img class="img-circle" src="./assets/img/logo.jpg" alt="Logo">
+              <img class="img" src="./assets/img/logo.jpg" alt="Logo">
             {% else %}
-              <img class="img-circle" src="./assets/img/logo.jpg" alt="Logo">
+              <img class="img" src="./assets/img/logo.jpg" alt="Logo">
             {% endif %}
           {% endif %}
 
@@ -50,7 +50,6 @@
           {% endif %}
 
           <p>{{ site.description | default: site.github.project_tagline }}</p>
-          <!-- <p>PhD student @ UT Austin UTNS lab. Working on systems for ML.</p> -->
 
           {% include sidebar.html %}
 
