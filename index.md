@@ -15,7 +15,7 @@ When I am not studying I spend an inordinate amount of time riding my bike throu
 ---
 
 ## News
-[12/04/2023 - The beginning](./news/12-04-2023)
+[12/04/2023 - The beginning](https://jacobhobbs1.substack.com)
 
 ---
 
