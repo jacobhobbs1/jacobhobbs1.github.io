@@ -3,13 +3,7 @@ layout: default
 title: "Jake Hobbs"
 ---
 
-[About Me](./about)
-<br>
-[News](./news)
-<br>
-[Publications](./publications)
-<br>
-[CV](./cv)
+[About Me](./about) | [News](./news) | [Publications](./publications) | [CV](./cv)
 
 
 I am a first year PhD student within Open Lab looking into the role that augmented reality can play in medical surgery. I will be integrating augmented reality with existing technologies and techniques to aid surgeons with the procedures they undertake. I’m looking forward to seeing where I can take my PhD and what I can learn along the way.
@@ -22,6 +16,8 @@ When I am not studying I spend an inordinate amount of time riding my bike throu
 
 ## News
 [12/04/2023 - The beginning](./news/12-04-2023)
+
+---
 
 ## Publications
 

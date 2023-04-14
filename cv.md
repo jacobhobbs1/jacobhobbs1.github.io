@@ -3,12 +3,6 @@ layout: default
 title: CV
 ---
 
-[Home](./)
-<br>
-[About Me](./about)
-<br>
-[News](./news)
-<br>
-[Publications](./publications)
+[Home](./) | [About Me](./about) | [News](./news) | [Publications](./publications)
 
-## Jacob Hobbs
+# Jacob Hobbs
