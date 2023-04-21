@@ -31,6 +31,6 @@ Nowt yet like
 
 ## Teaching Experience
 
-Along side my PhD I have undertaken some demonstrating work helping to support Undergraduate and Masters Modules. 
+Along side my PhD I have undertaken some demonstrating work helping to support Undergraduate and Masters modules. 
 
 <!-- <img style="width:350px;" src="./assets/img/wordcloud.svg"/> -->
