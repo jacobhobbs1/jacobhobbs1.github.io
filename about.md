@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-[Home](./) | [News](./news) | [Publications](./publications) | [CV](./cv)
+[Home](./) | [News](./news) | [Publications](./publications)
 
 # About Me
 
