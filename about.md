@@ -7,7 +7,7 @@ title: About Me
 
 # About Me
 
-I am a first year PhD student within [Open Lab](https://openlab.ncl.ac.uk/) at Newcastle University looking into the role that augmented reality can play in medical surgery. I will be integrating augmented reality with existing technologies and techniques to aid medical professionals with the procedures they undertake. I am looking forward to seeing where I can take my PhD and what I can learn along the way. I jumped straight from undergraduate to PhD as this opportunity within Open Lab arose and I saw as a means of being creative and supporting a good cause. 
+I am a first year PhD student within [Open Lab](https://openlab.ncl.ac.uk/) at Newcastle University looking into the role that augmented reality can play in medical surgery. I will be integrating augmented reality with existing technologies and techniques to aid medical professionals with the procedures they undertake. I am looking forward to seeing where I can take my PhD and what I can learn along the way. I jumped straight from undergraduate to PhD as this opportunity within Open Lab arose and I saw it as a means of being creative and supporting a good cause. 
 
 <img style="width:350px;" src="./assets/img/f110.png"/>
 
