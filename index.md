@@ -5,12 +5,9 @@ title: "Jake Hobbs"
 
 [About Me](./about) | [News](./news) | [Publications](./publications)
 
-I am a second year PhD student within Open Lab at Newcastle University, looking into the role that augmented reality can play in medical surgery. I am currently investigating the technologies and processes currently used in clinical practice to understand how augmented reality may be integrated. My aim is to create a tool that can to aid surgeons or other medical professionals with the tasks they undertake. I am looking forward to seeing where I can take my PhD and what I can learn along the way.
-<br>
-<br>
-I have recently been accepted onto Cohort 6 of the Conception X program, a 9-month program that endevours to give PhD students the skills they need to start deeptech ventures based on their PhD research. See the News section below for updates as I progress through the course.
-<br>
-<!-- I also write on Substack weekly about anything and everything I can. -->
+I am a second year PhD student within Open Lab looking into the role that augmented reality can play in the medical field. I will be integrating augmented reality with existing technologies and techniques to speed up or otherwise improve a medical workflow. I am also looking into the interaction challenges of AR and how virtual components could be redesigned to enhance interactions.
+
+I completed my bachelors in computer science here at Newcastle University, focussing my final dissertation on the development process of digital twins, during which I built a digital twin of an F1Tenth car as a case study.
 
 ---
 
@@ -22,9 +19,9 @@ I have recently been accepted onto Cohort 6 of the Conception X program, a 9-mon
 
 ---
 
-## Publications
+<!-- ## Publications
 
-Nowt yet like
+Nowt yet like -->
 
 <!-- [See All Publications](./publications) -->
 
