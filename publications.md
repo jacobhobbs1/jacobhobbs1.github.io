@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-[Home](./) | [About Me](./about) | [News](./news)
+[Home](./) | [News](./news)
 
 # Publications
 

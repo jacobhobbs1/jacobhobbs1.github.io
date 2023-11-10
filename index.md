@@ -3,7 +3,7 @@ layout: default
 title: "Jake Hobbs"
 ---
 
-[About Me](./about) | [News](./news) | [Publications](./publications)
+[News](./news) | [Publications](./publications)
 
 <!-- Rewrite - update and expand -->
 I am a second year PhD student within Open Lab looking into the role that augmented reality can play in the medical field. I will be integrating augmented reality with existing technologies and techniques to speed up or otherwise improve a medical workflow. I am also looking into the interaction challenges of AR and how virtual components could be redesigned to enhance interactions. I spent the first year of my PhD interviewing various surgeons and radiologists in the North East with the aim of understanding current process and how augmented reality could be integrated with current systems to have a meaningful impact. <!-- My CHI paper goes into this further. -->
