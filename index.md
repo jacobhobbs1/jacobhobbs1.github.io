@@ -5,7 +5,7 @@ title: "Jake Hobbs"
 
 [About Me](./about) | [News](./news) | [Publications](./publications)
 
-I am a first year PhD student within Open Lab at Newcastle University, looking into the role that augmented reality can play in medical surgery. I am currently investigating the technologies and processes currently used in clinical practice to understand how augmented reality may be integrated. My aim is to create a tool that can to aid surgeons or other medical professionals with the tasks they undertake. I am looking forward to seeing where I can take my PhD and what I can learn along the way.
+I am a second year PhD student within Open Lab at Newcastle University, looking into the role that augmented reality can play in medical surgery. I am currently investigating the technologies and processes currently used in clinical practice to understand how augmented reality may be integrated. My aim is to create a tool that can to aid surgeons or other medical professionals with the tasks they undertake. I am looking forward to seeing where I can take my PhD and what I can learn along the way.
 <br>
 <br>
 I have recently been accepted onto Cohort 6 of the Conception X program, a 9-month program that endevours to give PhD students the skills they need to start deeptech ventures based on their PhD research. See the News section below for updates as I progress through the course.
