@@ -13,6 +13,6 @@ I am a first year PhD student within [Open Lab](https://openlab.ncl.ac.uk/) at N
 
 I completed my BSc in computer science here at Newcastle University focussing my final dissertation on the development process of digital twins. During this project I built a digital twin of an F1Tenth car as a case study and employed an introspective approach to suggest guidelines for future digital twin development. This way of thinking was very new to me but it was interesting to experience how a case study can be used to draw wider lessons. I thoroughly enjoyed this project as it introduced me to a field I had no prior experience of and taught me about the potential that digital twins have in many modern systems.
 
-When I am not working I spend a large amount of time riding my bike through the North Pennines, and as president of the [University Cycling Club](https://www.facebook.com/newcastleuniversitycyclingclub) I enjoy showing new students the routes I have come to love. I also enjoy cooking and experimenting with any new flavour combinations I can find
+When I am not working I spend a large amount of time riding my bike through the North Pennines, and as president of the [University Cycling Club](https://www.facebook.com/newcastleuniversitycyclingclub) I enjoy showing new students the routes I have come to love. I also enjoy cooking and experimenting with any new flavour combinations I can find.
 
 <img style="width:350px;" src="./assets/img/hc22.jpeg"/>

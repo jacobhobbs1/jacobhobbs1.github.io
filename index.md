@@ -5,7 +5,7 @@ title: "Jake Hobbs"
 
 [News](./news) | [Publications](./publications)
 
-I am a second year PhD student within Open Lab looking into the role that augmented reality can play in the medical field. I will be integrating augmented reality with existing technologies and techniques to speed up or otherwise improve a medical workflow. I am also looking into the interaction challenges of AR and how virtual components could be redesigned to enhance interactions. I spent the first year of my PhD interviewing various surgeons and radiologists in the North East with the aim of understanding current process and how augmented reality could be integrated with current systems to have a meaningful impact. <!-- My CHI paper goes into this further. *Optimism* -->
+I am a second year PhD student within Open Lab looking into the role that augmented reality can play in the medical field. I will be integrating augmented reality with existing technologies and techniques to speed up or otherwise improve a medical workflow. I am also looking into the interaction challenges of AR and how virtual components could be redesigned to enhance interactions. I spent the first year of my PhD interviewing various surgeons and radiologists in the North East with the aim of understanding current process and how augmented reality could be integrated with current systems to have a meaningful impact. 
 I am also beginning to explore the perceptual issues of augmented reality, in particular depth perception. Accurate depth perception is crucial to the effective use of AR but limitations of modern hardware make this difficult in certain use cases. 
 
 I completed my bachelors in computer science here at Newcastle University, focussing my final dissertation on the development process of digital twins, during which I built a digital twin of an F1Tenth car as a case study. In the summer of 2022, before starting my PhD I completed a summer placement within the EPiC (Educational Practices in Computing) research group in the school of computing. During this placement I built on pre-existing games development knowledge to create a command line interface simulator for students to use to help them learn basic command in a safe environment. This was an interesting process that allowed me to build on and solidify my knowledge of command line interfaces. 
@@ -14,9 +14,7 @@ I completed my bachelors in computer science here at Newcastle University, focus
 ---
 
 ## News
-<!-- Redo - bulk up? -->
-> 23/04/2023: [A beginning](https://open.substack.com/pub/jacobhobbs1/p/square-one?r=22obpx&utm_campaign=post&utm_medium=email)
->
+<!-- Substack posts here -->
 > 28/03/2023: **Conception X** bootcamp at the Bishopsgate Institute in London [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7051867676494696448/)
 
 ---
