@@ -3,7 +3,7 @@ layout: default
 title: "Jake Hobbs"
 ---
 
-[News](./news) | [Publications](./publications)
+[News](./news) | [Publications](./publications) | [Microsoft HoloLens 2 Development](https://jacobhobbs1.github.io/HoloLens2Development.github.io/)
 
 I am a third year PhD student within Open Lab looking into the role that augmented reality can play in the medical field. I am looking at how augmented reality can integrate with existing technologies and techniques to speed up or otherwise improve a medical workflow. I am also looking into the interaction challenges of AR and how virtual components could be redesigned to enhance interactions. I spent the first year of my PhD interviewing various surgeons and radiologists in the North East with the aim of understanding current process and how augmented reality could be integrated with current systems to have a meaningful impact. 
 I am also explore the perceptual issues of augmented reality, in particular depth perception. Accurate depth perception is crucial to the effective use of AR in the medical field and beyond, but limitations of modern hardware make this difficult in certain use cases. 
@@ -32,3 +32,6 @@ Nowt yet like -->
 
 Along side my PhD I have undertaken some demonstrating work helping to support undergraduate and masters modules. One of these modules is the third year undergraduate Human Computer Interaction: Interaction Design. I have particularly enjoyed demonstrating on this module as it has encouraged me to learn about interaction design principles and concepts that I previously had little knowledge of. Engaging with and helping lead the seminars in this module has been particularly rewarding as they provide the opportunity to engage in thought provoking discussions with students. 
 
+## Microsoft HoloLens 2 Development
+
+This is a collection of the knowledge I have gained through developing for the Microsoft HoloLens 2 with the Unity Game engine. Through my experience I have found that the community developing for the HoloLens is very small and therefore there are a lot of unanswered questions. This project is a collection of what I have learned made publically available for others to read and contribute to. Find it [here](https://jacobhobbs1.github.io/HoloLens2Development.github.io/).
