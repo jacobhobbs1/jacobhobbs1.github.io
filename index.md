@@ -14,7 +14,7 @@ I completed my bachelors in computer science here at Newcastle University, focus
 
 ## News
 
-> 09/01/2025: **Development Guides for the Microsoft HoloLens 2** My experiential lessons from developing with the HoloLens open to the community to access and contribute to [Development Guides](https://jacobhobbs1.github.io/HoloLens2Development.github.io/). 
+> 09/01/2025: **Development Information for the Microsoft HoloLens 2** My experiential lessons from developing with the HoloLens open to the community to access and contribute to [Development Information](https://jacobhobbs1.github.io/HoloLens2Development.github.io/). 
 
 > 22/11/2024: **Investigating the Role of Augmented Reality in Tertiary Care Using Thematic Analysis (Pre-Print)** Available now. More information [here](./publications.md) or read in full [here](https://preprints.jmir.org/preprint/68810)
 
