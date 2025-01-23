@@ -12,20 +12,6 @@ I completed my bachelors in computer science here at Newcastle University, focus
 
 ---
 
-## Projects and Git Repositories
-
-> [Microsoft HoloLens 2 Development](https://jacobhobbs1.github.io/HoloLens2Development.github.io/)
-This is a collection of the knowledge I have gained through developing for the Microsoft HoloLens 2 with the Unity Game engine. 
-Through my experience I have found that the community developing for the HoloLens is very small and therefore there are a lot 
-of unanswered questions. This project is a collection of what I have learned made publically available for others to read and 
-contribute to.
-
-> [Setup and Config Files](https://jacobhobbs1.github.io/setup-config-files/)
-This is a collection of set up and configuration files as starting points for development. For example a .gitignore file to use 
-when creating a Unity project.
-
-
-
 ## News
 
 > 09/01/2025: **Development Information for the Microsoft HoloLens 2** My experiential lessons from developing with the HoloLens open to the community to access and contribute to [Development Information](https://jacobhobbs1.github.io/HoloLens2Development.github.io/). 
@@ -44,9 +30,22 @@ when creating a Unity project.
 
 [See All Publications](./publications)
 
+---
+
+## Projects and Git Repositories
+
+> [Microsoft HoloLens 2 Development](https://jacobhobbs1.github.io/HoloLens2Development.github.io/)
+This is a collection of the knowledge I have gained through developing for the Microsoft HoloLens 2 with the Unity Game engine. 
+Through my experience I have found that the community developing for the HoloLens is very small and therefore there are a lot 
+of unanswered questions. This project is a collection of what I have learned made publically available for others to read and 
+contribute to.
+
+> [Setup and Config Files](https://jacobhobbs1.github.io/setup-config-files/)
+This is a collection of set up and configuration files as starting points for development. For example a .gitignore file to use 
+when creating a Unity project.
+
+---
+
 ## Teaching Experience
 
 Along side my PhD I have undertaken some demonstrating work helping to support undergraduate and masters modules. One of these modules is the third year undergraduate Human Computer Interaction: Interaction Design. I have particularly enjoyed demonstrating on this module as it has encouraged me to learn about interaction design principles and concepts that I previously had little knowledge of. Engaging with and helping lead the seminars in this module has been particularly rewarding as they provide the opportunity to engage in thought provoking discussions with students. 
-
-## Microsoft HoloLens 2 Development
-
