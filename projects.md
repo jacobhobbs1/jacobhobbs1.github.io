@@ -3,9 +3,11 @@ layout: default
 title: "Jake Hobbs"
 ---
 
-[News](./news) | [Publications](./publications)
+[Home](./) | [News](./news) | [Publications](./publications) |  [Projects and Repositories](./projects.md)
 
 # Projects and Repositories
+
+This page contains a collection of projects and Github repositories to collect together access to past projects and helpful references for the future. 
 
 > [Microsoft HoloLens 2 Development](https://jacobhobbs1.github.io/HoloLens2Development.github.io/)
 This is a collection of the knowledge I have gained through developing for the Microsoft HoloLens 2 with the Unity Game engine. 

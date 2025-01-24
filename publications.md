@@ -3,9 +3,11 @@ layout: default
 title: Publications
 ---
 
-[Home](./) | [News](./news) | [Microsoft HoloLens 2 Development](https://jacobhobbs1.github.io/HoloLens2Development.github.io/)
+[Home](./) | [News](./news) | [Publications](./publications) |  [Projects and Repositories](./projects.md)
 
 # Publications
+
+This page contains a list and links to my publications. 
 
 ### Investigating the Role of Augmented Reality in Tertiary Care Using Thematic Analysis (Pre-Print)
 Background: <br>

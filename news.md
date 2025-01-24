@@ -3,9 +3,11 @@ layout: default
 title: News
 ---
 
-[Home](./) | [Publications](./publications) | [Microsoft HoloLens 2 Development](https://jacobhobbs1.github.io/HoloLens2Development.github.io/)
+[Home](./) | [News](./news) | [Publications](./publications) |  [Projects and Repositories](./projects.md)
 
 # News
+
+This page contains a list and links to things I want to share, collected from various sources and with various contexts.
 
 > 09/01/2025: **Development Guides for the Microsoft HoloLens 2** My experiential lessons from developing with the HoloLens open to the community to access and contribute to [Development Guides](https://jacobhobbs1.github.io/HoloLens2Development.github.io/). 
 
