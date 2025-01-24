@@ -3,7 +3,7 @@ layout: default
 title: "Jake Hobbs"
 ---
 
-[Home](./) | [News](./news) | [Publications](./publications) |  [Projects and Repositories](./projects.md)
+[Home](./) | [About](./about.md) | [Publications](./publications) |  [Projects](./projects.md) | [Blog](./blog.md)
 
 # Projects and Repositories
 
