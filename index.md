@@ -5,12 +5,13 @@ title: "Jake Hobbs"
 
 [Home](./) | [About](./about.md) | [Publications](./publications) |  [Projects](./projects.md) | [Blog](./blog.md)
 
-I am a third year PhD student within Open Lab looking into the role that augmented reality can play in the medical field. I am looking at how augmented reality can integrate with existing technologies and techniques to speed up or otherwise improve a medical workflow. I am also looking into the interaction challenges of AR and how virtual components could be redesigned to enhance interactions. I spent the first year of my PhD interviewing various surgeons and radiologists in the North East with the aim of understanding current process and how augmented reality could be integrated with current systems to have a meaningful impact. 
-I am also explore the perceptual issues of augmented reality, in particular depth perception. Accurate depth perception is crucial to the effective use of AR in the medical field and beyond, but limitations of modern hardware make this difficult in certain use cases. 
+I am a third year PhD student within Open Lab looking into the role that augmented reality can play in the medical field, specifically radiology. I am looking at how augmented reality can integrate with existing technologies and techniques to speed up or otherwise improve a medical workflow. I spent the first year of my PhD interviewing surgeons and radiologists in the North East with the aim of understanding current process and how augmented reality could be integrated with current systems to have a meaningful impact. 
+
+As part of this I am looking into the interaction and perceptual challenges of near-field AR, in particular depth perception. Accurate depth perception is crucial to the effective use of AR in the medical field and beyond, but limitations of modern hardware make this difficult particularly in near-field interactions. I am currently developing a study to understand how virtual components could be redesigned to enhance near-field depth perception while still using off-the-shelf AR headsets.
 
 I completed my bachelors in computer science here at Newcastle University, focussing my final dissertation on the development processes of digital twins, during which I built a digital twin of an F1Tenth car as a case study. In the summer of 2022, before starting my PhD I completed a summer placement within the EPiC (Educational Practices in Computing) research group in the school of computing. During this placement I built on existing games development knowledge to create a command line interface simulator for students to use to help them learn basic commands in a safe environment. This was an interesting process that allowed me to build on and solidify my knowledge of command line interfaces. 
 
-On this site...
+On this site find links to papers, projects, notes, and blog articles curated together for easy access. These items are a mixture of achievments and reports on events that I want to share, and notes or documents for future reference. 
 
 ---
 
