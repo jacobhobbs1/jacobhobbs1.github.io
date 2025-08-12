@@ -3,7 +3,7 @@ layout: default
 title: "Jake Hobbs"
 ---
 
-[Home](./) | [About](./about.md) | [Publications](./publications) |  [Projects](./projects.md) | [Blog](./blog.md)
+[Home](./) | [About](./about.md) | [Publications](./publications) |  [Projects](./projects.md) | [Blog](./blog.md) | [CV](./cv.md)
 
 I am a third year PhD student within Open Lab looking into the role that augmented reality can play in the medical field, specifically radiology. I am looking at how augmented reality can integrate with existing technologies and techniques to speed up or otherwise improve a medical workflow. I spent the first year of my PhD interviewing surgeons and radiologists in the North East with the aim of understanding current process and how augmented reality could be integrated with current systems to have a meaningful impact. 
 
@@ -16,6 +16,7 @@ On this site find links to papers, projects, notes, and blog articles curated to
 ---
 
 ## News
+> 01/08/2025: **Designs and Interactions for Near-Field Augmented Reality: A Scoping Review** Recently Published. More information [here](./publications.md) or read in full [here](https://www.mdpi.com/3431204)
 
 > 09/01/2025: **Development Information for the Microsoft HoloLens 2** My experiential lessons from developing with the HoloLens open to the community to access and contribute to [Development Information](https://jacobhobbs1.github.io/HoloLens2Development.github.io/). 
 
