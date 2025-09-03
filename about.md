@@ -17,6 +17,10 @@ My second study was a scoping literature review inspired by the medical needs id
 
 I am currently concluding two parallel studies investigating the impact of AR interactions for clinical radiology and radiological training. FOr this study I am running a series of workshops with radiologists and radiology registrars and using a demo AR application as a prompt to have conversations around the utility and practicality of the interactions the technology provides, while highlighting challenges and opportunities for future development. 
 
+### Conception X
+
+Alongside the first year of my PhD I participated in the Conception X accelerator program which aims to train PhD students in the entrprenurial skills they may need to convert their research into a deeptech startup. While I was in the early stages of my PhD and had no business idea to develop throughout the program, I gained invaluable skills and made conncetions that will help me in any future direction I take. 
+
 ## Teaching Experience
 
 Along side my PhD I have undertaken some teaching assisstance work helping to support undergraduate and masters modules. One of these modules is the third year undergraduate 'Human Computer Interaction: Interaction Design'. I have particularly enjoyed demonstrating on this module as it has encouraged me to learn about human-computer interaction (HCI) and interaction design principles and concepts that I previously had little knowledge of. Engaging with and helping lead the seminars in this module has been particularly rewarding as they provide the opportunity to engage in thought provoking discussions with students. 
