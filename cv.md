@@ -8,6 +8,9 @@ title: CV
 # Jacob (Jake) Hobbs
 Full CV available on Request
 
+## Professional Summary
+PhD student in health technology evaluating the role of Augmented Reality (AR) in tertiary care. Skilled at translating complex research into actionable insights, managing data-driven projects, and engaging with stakeholders across clinical and academic environments. Experienced in requirements gathering, process analysis, and solution evaluation, with a strong foundation in both qualitative methods. Adept at bridging the gap between technology and end-user needs, and motivated to apply analytical and problem-solving skills in business analysis to deliver impactful, evidence-based solutions.
+
 ## PhD
 ### Newcastle University | Sept 2022 – March 2026
 #### “Investigating the Role of Augmented Reality in Tertiary Care”
@@ -46,9 +49,9 @@ Full CV available on Request
 
 ## TEACHING EXPERIENCE
 ### PhD Demonstrating and Teaching Assistant | Sept 2022 – March 2026
+- Supervising a master’s student through their dissertation project by meeting with them regularly to discuss ideas, potential directions, and techniques. Plus reviewing written content and providing feedback to help them improve.
 - Demonstrating as a teaching assistant in practical sessions for undergraduate and master’s courses. Including running activities planned by the lecturer, helping students to understand the material, and answering any questions they have. 
 - Marking coursework according to a specified criteria while providing fair and informative feedback for the student to build on. This includes meeting with the lecturer and other markers to calibrate marking and discuss borderline submissions.
-- Supervising a master’s student through their dissertation project by meeting with them regularly to discuss ideas, potential directions, and techniques. Plus reviewing written content and providing feedback to help them improve.
 - This is reflected in AFHEA application.
 
 ## PUBLICATIONS AND CONFERENCES
