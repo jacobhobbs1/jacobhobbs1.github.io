@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event_layout
 title: "Jake's Birthday"
 ---
 
