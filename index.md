@@ -16,14 +16,16 @@ On this site find links to papers, projects, notes, and blog articles curated to
 ---
 
 ## News
-> 14/08/2025: **Role of Augmented Reality in Tertiary Care: Qualitative Investigation Using Thematic Analysis** Recently Published. More information [here](./publications.md) or read in full [here](https://xr.jmir.org/2025/1/e68810/)
+> 24/11/2025: **Awarded Associate Fellowship of Advance HE** In recognition of attainment against the Professional Standards Framework for teaching and supporting learning in higher education.
 
-> 01/08/2025: **Designs and Interactions for Near-Field Augmented Reality: A Scoping Review** Recently Published. More information [here](./publications.md) or read in full [here](https://www.mdpi.com/3431204)
+> 14/08/2025: **Role of Augmented Reality in Tertiary Care: Qualitative Investigation Using Thematic Analysis** Recently Published. More information [here](./publications.md) or read in full [here](https://xr.jmir.org/2025/1/e68810/).
+
+> 01/08/2025: **Designs and Interactions for Near-Field Augmented Reality: A Scoping Review** Recently Published. More information [here](./publications.md) or read in full [here](https://www.mdpi.com/3431204).
 
 > 09/01/2025: **Development Information for the Microsoft HoloLens 2** My experiential lessons from developing with the HoloLens open to the community to access and contribute to [Development Information](https://jacobhobbs1.github.io/HoloLens2Development.github.io/). 
 
-> 20/06/2024: **Conception X Complete** My summary of the program [Substack](https://open.substack.com/pub/jacobhobbs1/p/conception-x-turning-todays-phd-research?r=22obpx&utm_campaign=post&utm_medium=web)
+> 20/06/2024: **Conception X Complete** My summary of the program [Substack](https://open.substack.com/pub/jacobhobbs1/p/conception-x-turning-todays-phd-research?r=22obpx&utm_campaign=post&utm_medium=web).
 
-> 28/03/2023: **Conception X** bootcamp at the Bishopsgate Institute in London [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7051867676494696448/)
+> 24/10/2023: **APMG Agile Project Management Foundation** course completed, demonstrated formalised knowledge of agile workflows.
 
-> 22/11/2025: **Event** [Here](./event.md)
+> 28/03/2023: **Conception X** bootcamp at the Bishopsgate Institute in London [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7051867676494696448/).
