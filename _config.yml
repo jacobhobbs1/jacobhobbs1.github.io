@@ -13,6 +13,8 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-remote-theme
+using:
+  'node24'
 
 sidebar:
   - name: LinkedIn
