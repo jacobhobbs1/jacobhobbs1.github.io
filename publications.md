@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-[Home](./) | [About](./about.md) | [Publications](./publications) |  [Projects](./projects.md) | [Blog](./blog.md) | [CV](./cv.md)
+[Home](./) | [About](./about.md) | [Publications](./publications) |  [Projects](./projects.md) | [Blog](./blog.md)
 
 # Publications
 

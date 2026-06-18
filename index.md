@@ -3,7 +3,7 @@ layout: default
 title: "Jake Hobbs"
 ---
 
-[Home](./) | [About](./about.md) | [Publications](./publications) |  [Projects](./projects.md) | [Blog](./blog.md) | [CV](./cv.md)
+[Home](./) | [About](./about.md) | [Publications](./publications) |  [Projects](./projects.md) | [Blog](./blog.md)
 
 I am a fourth-year PhD student at [Open Lab](https://openlab.ncl.ac.uk), Newcastle University, researching the impact of augmented reality (AR) on medical imaging workflows. My work explores how AR can be integrated with existing technologies to enhance efficiency, support clinical decision-making, and improve medical training. In the first year of my PhD, I interviewed surgeons and radiologists across the North East to understand current practices and identify opportunities for meaningful AR integration. The paper detailing this study was published in the [JMIR XR](https://xr.jmir.org/2025/1/e68810/) and Spatial Computing journal in August 2025. Since then, I have expanded this research to include both clinical applications and training contexts, running interviews and workshops with stakeholders to uncover technological limitations and opportunities for adoption.
 
